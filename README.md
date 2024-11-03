@@ -36,8 +36,7 @@ Giskard is an MLOps tool designed to streamline the testing, debugging, and depl
 
 
 
-## Using Giskard with a Movie Recommendation System
-### Giskard as a MLOps tool for Model Testing
+## Using Giskard with a Movie Recommendation System - Giskard as a MLOps tool for Model Testing
 
 **Warning: This section involves the code implementation of creating test datasets and modeling. You can skip the code blocks if not interested.**
 
